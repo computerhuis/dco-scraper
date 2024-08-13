@@ -1,0 +1,16 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IntelliJ IDEA IDE
+.idea/
+*.iml
+
+# Python
+archive/
+*.pyc
+_env
+
+# Project files
+/settings.json
+/output/
